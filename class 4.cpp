@@ -229,13 +229,3 @@
 //		
 //	return status;
 //}
-
-//exercise 10
-
-#include <iostream>
-using namepace std;
-
-int main()
-{
-	
-}
