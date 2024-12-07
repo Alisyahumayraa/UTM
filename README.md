@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **bioinformatics**
 
-- 👯 My experience [PC assemble](https://pcassemble.mystrikingly.com)
+- 👯 My Portfolio [UniLife!](https://sites.google.com/graduate.utm.my/alisyahumayraa/home)
 
 - 🤝 I’m looking for help with **my coding**
 
